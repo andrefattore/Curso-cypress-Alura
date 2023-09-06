@@ -1,4 +1,4 @@
-#Curso-Cypress
+# Curso-Cypress
 
 Este repositório contém os scripts feitos durante as aulas do Curso de Cypress da Alura
 
